@@ -114,6 +114,12 @@ export {
   encodeFunctionResult,
 } from './abi/encodeFunctionResult.js'
 export {
+  type ParseEventLogsErrorType,
+  type ParseEventLogsParameters,
+  type ParseEventLogsReturnType,
+  parseEventLogs,
+} from './abi/parseEventLogs.js'
+export {
   type GetAbiItemErrorType,
   type GetAbiItemParameters,
   getAbiItem,
