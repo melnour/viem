@@ -1,5 +1,11 @@
 # viem
 
+## 1.19.4
+
+### Patch Changes
+
+- [#1512](https://github.com/wagmi-dev/viem/pull/1512) [`2d581ac5`](https://github.com/wagmi-dev/viem/commit/2d581ac55d9753cd82baa6f8d3b6e5a7cc5b6721) Thanks [@mihoward21](https://github.com/mihoward21)! - Added the multicall address for Aurora
+
 ## 1.19.3
 
 ### Patch Changes
